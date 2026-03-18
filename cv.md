@@ -4,7 +4,9 @@
 ---
 
 ## About Me
-Data engineering is my passion. My goal is to become proficient in frontend development.
+I am a data engineer with 4+ years of commercial experience in building data platforms, ETL/ELT pipelines, and BI analytics. 
+I am currently learning frontend development to fully understand the product lifecycle and communicate more effectively with frontend
+engineers - setting clear, technically informed tasks and bridging the gap between data and UI layers.
 
 ---
 
